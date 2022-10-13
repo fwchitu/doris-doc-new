@@ -2,6 +2,7 @@
 
 * [doris-doc](README.md)
 * [docs](docs/README.md)
+  * [this is a test](docs/this-is-a-test.md)
   * [admin-manual](docs/admin-manual/README.md)
     * [多租户和资源划分](docs/admin-manual/multi-tenant.md)
     * [性能优化](docs/admin-manual/optimization.md)
